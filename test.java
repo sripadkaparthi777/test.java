@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class test {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,4 +14,3 @@ public class test {
         System.out.println("Factorial of " + num + " is " + factorial);
     }
 }
-76
